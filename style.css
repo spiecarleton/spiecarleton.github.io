@@ -90,3 +90,21 @@ p {
     margin: 20px;
     padding: 0;
 }
+
+#contact-us-button-temp {
+    font-family: "Lexend", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    padding: 10px;
+    background-color: rgba(255, 0, 0, 0.26);
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    display: inline;
+    margin: auto;
+    text-align: center;
+}
+
+#contact-us-button-temp:hover {
+    background-color: rgba(255, 0, 0, 0.541);
+}
