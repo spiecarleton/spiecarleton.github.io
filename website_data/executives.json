@@ -1,4 +1,5 @@
 {
+    "forYears": "2025/2026",
     "executives": [
         {
             "name": "Julian Nicolai",
@@ -28,8 +29,7 @@
             "name": "Unfilled",
             "degree": "N/A",
             "role": "Vice President Events",
-            "photoFilename": "blank_profile.png"
+            "photoFilename": "blank_profile.jpg"
         }
-    ],
-    "forYears": "2025/2026"
+    ]
 }

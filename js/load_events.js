@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
     fetch('/website_data/events.json').then(response => {
         response.json().then(jsonObj => {
-            let reoccuringEvents = jsonObj.reoccuringEvents;
+            let recurringEvents = jsonObj.recurringEvents;
             let events = jsonObj.events;
             let i = 0;
-            reoccuringEvents.forEach(event => {
+            recurringEvents.forEach(event => {
                 const eventId = `reoccuring-event-${i++}`;
 
                 const sidebarList = document.getElementsByClassName('menu')[0];

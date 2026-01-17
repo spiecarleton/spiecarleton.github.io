@@ -1,4 +1,9 @@
 {
+    "faculty": [
+        {
+            "name": "Prof. Hubert Jean-Ruel"
+        }
+    ],
     "members": [
         {
             "name": "John Smith",
