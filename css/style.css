@@ -157,6 +157,18 @@ body {
         margin-bottom: 0;
     }
 
+    h3 {
+        font-family: "Lexend", sans-serif;
+        font-size: 23px;
+        font-weight: 600;
+        margin: 8px 0 8px 0;
+    }
+
+    h3 span {
+        /* font-style: italic; */
+        font-weight: normal;
+    }
+
     p {
         font-family: "Lexend", sans-serif;
         font-size: 20px;
@@ -167,6 +179,14 @@ body {
         font-family: "Lexend", sans-serif;
         font-size: 20px;
         font-style: normal;
+    }
+
+    .main-content-container ul {
+        margin: 0;
+    }
+
+    .main-content-container li {
+        margin: 5px 0 5px 0px;
     }
 
     p.construction {
@@ -242,7 +262,7 @@ body {
     }
 
     .footer-container {
-        width: 100vw;
+        width: 100%;
         background-color: rgb(255, 91, 91);
     }
     
@@ -252,5 +272,9 @@ body {
         margin-bottom: 0;
         text-align: center;
         color: white;
+    }
+    .pdf {
+        margin-top: 25px;
+        border-radius: 25px;
     }
 }

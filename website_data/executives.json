@@ -1,0 +1,35 @@
+{
+    "executives": [
+        {
+            "name": "Julian Nicolai",
+            "degree": "MASc in Electrical Engineering",
+            "role": "President",
+            "photoFilename": "julian_profile.png"
+        },
+        {
+            "name": "Dilsha Appu-Hennadi",
+            "degree": "MASc in Electrical Engineering",
+            "role": "Vice President Internal",
+            "photoFilename": "dilsha_profile.jpg"
+        },
+        {
+            "name": "Kenny Gregory",
+            "degree": "PhD in Electrical Engineering",
+            "role": "Vice President External",
+            "photoFilename": "kenny_profile.png"
+        },
+        {
+            "name": "Ilyas Kandid",
+            "degree": "PhD in Electrical Engineering",
+            "role": "Vice President Finance",
+            "photoFilename": "ilyas_profile.jpg"
+        },
+        {
+            "name": "Unfilled",
+            "degree": "N/A",
+            "role": "Vice President Events",
+            "photoFilename": "blank_profile.png"
+        }
+    ],
+    "forYears": "2025/2026"
+}

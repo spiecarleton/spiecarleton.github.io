@@ -45,43 +45,19 @@
                     <a class="anchor" id="item0"></a>
                     <h2>Who We Are</h2>
                     
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas aliquet orci tortor, id elementum ligula faucibus ac. Aliquam ac sem leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam suscipit metus nec dolor ullamcorper porta. Aliquam erat volutpat. Donec consectetur risus dignissim, egestas purus sed, ultrices sem. Vestibulum efficitur, enim non rhoncus posuere, dui tellus facilisis neque, sit amet elementum ante lectus a tortor. Morbi in tellus ac ex rhoncus malesuada nec eget felis. Sed facilisis venenatis ante, tristique posuere odio finibus vel. Aliquam nec ornare justo, eu pharetra magna. Mauris aliquam, urna et placerat posuere, diam erat pulvinar ante, quis posuere nibh massa vel elit. Praesent tincidunt nisl sed mattis viverra. Aenean mattis magna sed auctor porttitor. Nunc faucibus faucibus velit sed imperdiet. Nulla semper mi id magna placerat, ut ornare odio gravida. Maecenas luctus ut eros sit amet rutrum.</p>
+                    <p id="who-we-are"></p>
                 </div>
 
                 <div class="main-content-item">
                     <a class="anchor" id="item1"></a>
-                    <h2>Chapter Executives - 2024/2025</h2>
+                    <h2>Chapter Executives - <span id="exec-year">2024/2025</span></h2>
                     <div class="exec-profile-container">
-                        <div class="exec-profile">
+                        <!-- <div class="exec-profile">
                             <img class="exec-profile-img" src="images/profile_photos/james_profile.png">
                             <p class="exec-name">James Neumann</p>
                             <p class="exec-degree">Pursuing PhD in Electrical and Computer Engineering</p>
                             <p class="exec-title">President</p>
-                        </div>
-                        <div class="exec-profile">
-                            <img class="exec-profile-img" src="images/profile_photos/julian_profile.png">
-                            <p class="exec-name">Julian Nicolai</p>
-                            <p class="exec-degree">Pursuing MASc in Electrical and Computer Engineering</p>
-                            <p class="exec-title">Vice President Events</p>
-                        </div>
-                        <div class="exec-profile">
-                            <img class="exec-profile-img" src="images/profile_photos/dilsha_profile.jpg">
-                            <p class="exec-name">Dilsha Appu-Hennadi</p>
-                            <p class="exec-degree">Pursuing MASc in Electrical and Computer Engineering</p>
-                            <p class="exec-title">Vice President Internal</p>
-                        </div>
-                        <div class="exec-profile">
-                            <img class="exec-profile-img exec-last" src="images/profile_photos/kenny_profile.png">
-                            <p class="exec-name">Kenny Gregory</p>
-                            <p class="exec-degree">Pursuing PhD in Electrical <br> and Computer Engineering</p>
-                            <p class="exec-title">Vice President External</p>
-                        </div>
-                        <div class="exec-profile">
-                            <img class="exec-profile-img exec-last" src="images/profile_photos/ilyas_profile.jpg">
-                            <p class="exec-name">Ilyas Kandid</p>
-                            <p class="exec-degree">Pursuing PhD in Electrical <br> and Computer Engineering</p>
-                            <p class="exec-title">Vice President Finance</p>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
 
@@ -89,29 +65,29 @@
                     <a class="anchor" id="item2"></a>
                     <h2>Our Current Members</h2>
                     
-                    <ul>
-                        <li>John Smith, Master of Engineering in Electrical</li>
-                        <li>Jane Doe, Master of Applied Science in Electrical</li>
-                        <li>Kyle Frank, Master of Science in Physics</li>
-                        <li>Emily Fork, Bachelor of Engineering in Engineering Physics</li>
+                    <ul id="members-list">
+                        <!-- <li>John Smith, Master of Engineering in Electrical</li> -->
                     </ul>
                 </div>
 
                 <div class="main-content-item">
                     <a class="anchor" id="item3"></a>
                     <h2>Our Constitution</h2>
-                    
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas aliquet orci tortor, id elementum ligula faucibus ac. Aliquam ac sem leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam suscipit metus nec dolor ullamcorper porta. Aliquam erat volutpat. Donec consectetur risus dignissim, egestas purus sed, ultrices sem. Vestibulum efficitur, enim non rhoncus posuere, dui tellus facilisis neque, sit amet elementum ante lectus a tortor. Morbi in tellus ac ex rhoncus malesuada nec eget felis. Sed facilisis venenatis ante, tristique posuere odio finibus vel. Aliquam nec ornare justo, eu pharetra magna. Mauris aliquam, urna et placerat posuere, diam erat pulvinar ante, quis posuere nibh massa vel elit. Praesent tincidunt nisl sed mattis viverra. Aenean mattis magna sed auctor porttitor. Nunc faucibus faucibus velit sed imperdiet. Nulla semper mi id magna placerat, ut ornare odio gravida. Maecenas luctus ut eros sit amet rutrum.</p>
+
+                    <object class="pdf" data="/website_data/constitution.pdf" type="application/pdf" width="100%" height="1000px">
+                        <p>Unable to display PDF file. <a href="/website_data/constitution.pdf">Download</a> instead.</p>
+                    </object>
                 </div>
             </div>
         </div>
-
     </body>
 
     <footer>
         <div class="footer-container">
-            <p class="footer-message">Copyright Carleton Photonics Journal Club SPIE Chapter 2024©</p>
+            <p class="footer-message"></p>
         </div>
+        <script src="js/load_year.js"></script>
+        <script src="js/load_about.js"></script>
     </footer>
 
 </html>

@@ -1,0 +1,68 @@
+{   
+    "reoccuringEvents": [
+        {
+            "title": "Journal Club",
+            "sidebarTitle": "Journal Club",
+            "weekday": "Thursdays",
+            "time": "1:00 - 2:30 PM",
+            "dates": [
+                "January 29th, 2026", 
+                "February 26th, 2026", 
+                "March 12th, 2026"
+            ],
+            "location": "Mackenzie Building, Room 4342",
+            "descriptionParagraphs": [
+                "Journal Club is a meeting where members pick a paper of their choice to present, which is followed by a question period where the audience can ask questions and discuss the results/methods. It should be submitted a few days in advance to spiecpjc@gmail.com or post it in our Discord under the #papers channel so that people can read it ahead of the Journal Club session!",
+                "Coffee, tea, and light snacks will be provided at the meetings. Please BYOM (bring your own mug) if possible!"
+            ]
+        },
+        {
+            "title": "Plot Review",
+            "sidebarTitle": "Plot Review",
+            "weekday": "Thursdays",
+            "time": "1:00 PM - 2:30 PM",
+            "dates": [
+                "February 12th, 2026", 
+                "March 12th, 2026", 
+                "April 9th, 2026"
+            ],
+            "location": "Mackenzie Building, Room 4342",
+            "descriptionParagraphs": [
+                "Plot Review is an event where members will showcase a figure that they recently created and present it, along with any relevant background to help members understand it. It may be a simple figure or complex one, but the idea is to both keep others updated to the research going on at Carleton, as well as have members practice explaining their thesis to a wider audience. At the end of each Plot Review presentation, members will fill out a scorecard, those with the highest overall points will win a small prize.", 
+                "Coffee, tea, and light snacks will be provided at the meetings. Please BYOM (bring your own mug) if possible!"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "title": "Photonics Trivia Night",
+            "sidebarTitle": "Trivia",
+            "date": "To be announced",
+            "time": "To be announced",
+            "location": "Mike's Place",
+            "descriptionParagraphs": [
+                "Join us for an exciting evening of photonics-themed trivia! Test your knowledge, compete with fellow members, and enjoy some snacks and drinks. More details to come."
+            ]
+        },
+        {
+            "title": "National Reasearch Council (NRC) Lab Tour",
+            "sidebarTitle": "Lab Tour",
+            "date": "To be announced",
+            "time": "To be announced",
+            "location": "Building M-50, National Research Council",
+            "descriptionParagraphs": [
+                "A lab tour of the National Research Council's photonics facilities, showcasing cutting-edge research and technology. More details to come."
+            ]
+        },
+        {
+            "title": "Board Game Night",
+            "sidebarTitle": "Board Games",
+            "date": "To be announced",
+            "time": "To be announced",
+            "location": "Mike's Place",
+            "descriptionParagraphs": [
+                "An evening of fun and games with fellow SPIE members! Snacks and drinks will be available. More details to come."
+            ]
+        }
+    ]
+}

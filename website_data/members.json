@@ -1,0 +1,36 @@
+{
+    "members": [
+        {
+            "name": "John Smith",
+            "degree": "Master of Engineering in Electrical"
+        },
+        {
+            "name": "Jane Doe",
+            "degree": "Bachelor of Engineering in Mechanical"
+        },
+        {
+            "name": "Alice Johnson",
+            "degree": "PhD in Computer Science"
+        },      
+        {
+            "name": "Bob Brown",
+            "degree": "Master of Science in Civil Engineering"
+        },
+        {
+            "name": "Charlie Davis",
+            "degree": "Bachelor of Science in Chemical Engineering"
+        },
+        {
+            "name": "Eve Wilson",
+            "degree": "PhD in Biomedical Engineering"
+        },
+        {
+            "name": "Frank Miller",
+            "degree": "Master of Engineering in Software Engineering"
+        },
+        {
+            "name": "Grace Lee",
+            "degree": "Bachelor of Engineering in Environmental Engineering"
+        }
+    ]
+}
